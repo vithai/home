@@ -1,0 +1,17 @@
+site_name: Vithai Foundation
+# Theme
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  # icon:
+  #   logo: material/library
+  # features:
+  #   # - navigation.tabs
+  #   - navigation.instant
+  #   - navigation.expand
+  palette:
+    scheme: default
+    primary: teal
+    accent: orange
