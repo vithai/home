@@ -1,17 +1,12 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+>“Real generosity toward the future lies in giving all to the present” - Albert Camus
 
-## Commands
+<br />
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Vithai is a non-profit charitable trust, composed of like-minded individuals helping provide financial support for underprivileged school students by paying their tuition fees and distributing notebooks. Vithai also encourages school students to plant trees by issuing sapling every year. 
 
-## Project layout
+<!-- ![Plantation Photo](./images/2016_plantation_sivasailanantha.png) -->
+![Plantation Photo](./images/vithai-logo.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*<sub><sup>Vithai is a non-profit charitable trust and yet to be registered officially.<sub><sup>*
+

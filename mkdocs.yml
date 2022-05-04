@@ -1,4 +1,4 @@
-site_name: Vithai Foundation
+site_name: Vithai Charitable Trust
 # Theme
 theme:
   name: material
@@ -15,3 +15,14 @@ theme:
     scheme: default
     primary: teal
     accent: orange
+
+nav:
+  - Home: index.md
+  - Activities: 
+    - Financial Support: activities/financial.md
+    - Notebooks Distribution: activities/notebooks.md
+    - Plantation: activities/plantation.md
+  - Gallery: gallery.md
+
+extra_css:
+    - css/table.css
