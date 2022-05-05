@@ -17,7 +17,7 @@ theme:
     accent: orange
 
 nav:
-  - Home: index.md
+  - index.md
   - Activities: 
     - Financial Support: activities/financial.md
     - Notebooks Distribution: activities/notebooks.md
