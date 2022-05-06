@@ -26,3 +26,8 @@ nav:
 
 extra_css:
     - css/table.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-7N7EW5SM3Z
