@@ -19,8 +19,8 @@ theme:
 nav:
   - index.md
   - Activities: 
-    - Financial Support: activities/financial.md
-    - Notebooks Distribution: activities/notebooks.md
+    - Tuition Fee : activities/tuition-fee.md
+    - Notebooks : activities/notebooks.md
     - Plantation: activities/plantation.md
   - Gallery: gallery.md
 
