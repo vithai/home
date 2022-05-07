@@ -9,11 +9,13 @@
 | Ramakrishna Middle School                 | Devakottai, Sivagangai Dist.      |               100 |
 | Vairam Group Matriculation School         | Devakottai, Sivagangai Dist.      |               120 |
 | Harini Vidyalaya Primary School           | Krishnapuram, Tenkasi Dist.       |                50 |
+|                                           | Total                             |              1189 |
 
 #### 2020
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |
 | Harini Vidyalaya Primary School           | Krishnapuram, Tenkasi Dist.       |               100 |
+|                                           | Total                             |               100 |
 
 #### 2019
 | School Name                               | Location                          | Count             |
@@ -26,6 +28,7 @@
 | Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               300 |
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |               320 |
 | Govt Middle School                        | Mylappapuram, Tirunelveli Dist.   |               150 |
+|                                           | Total                             |              1770 |
 
 #### 2018
 | School Name                               | Location                          | Count             |
@@ -38,6 +41,7 @@
 | Harini Vidyalaya Primary School           | Krishnapuram, Tenkasi Dist.       |               200 |
 | Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               300 |
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |               300 |
+|                                           | Total                             |              1900 |
 
 #### 2017
 | School Name                               | Location                          | Count             |
@@ -53,6 +57,7 @@
 | Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               300 |
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |               300 |
 | Govt Middle School                        | Mylappapuram, Tirunelveli Dist.   |               150 |
+|                                           | Total                             |              2060 |
 
 #### 2016
 | School Name                               | Location                          | Count             |
@@ -62,3 +67,4 @@
 | Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               150 |
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |                70 |
 | Govt Middle School                        | Mylappapuram, Tirunelveli Dist.   |               200 |
+|                                           | Total                             |              1550 |
