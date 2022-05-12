@@ -2,11 +2,12 @@ site_name: Vithai Charitable Trust
 # Theme
 theme:
   name: material
+  # custom_dir: overrides
   font:
     text: Roboto
     code: Roboto Mono
-  # icon:
-  #   logo: material/library
+  icon:
+    logo: fontawesome/solid/seedling
   # features:
   #   # - navigation.tabs
   #   - navigation.instant
@@ -15,6 +16,14 @@ theme:
     scheme: default
     primary: teal
     accent: orange
+
+# markdown_extensions:
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:materialx.emoji.twemoji
+#       emoji_generator: !!python/name:materialx.emoji.to_svg
+#       options:
+#         custom_icons:
+#           - overrides/bootstrap/.icons    
 
 nav:
   - Home: index.md
@@ -28,6 +37,30 @@ extra_css:
     - css/table.css
 
 extra:
+  social:
+    - name: gmail
+      icon: material/gmail
+      link: https://mail.google.com/mail/?view=cm&source=mailto&to=vithai2vithai@gmail.com
+    - name: twitter
+      icon: fontawesome/brands/twitter-square
+      link: https://twitter.com/Vithai2Vithai
+    - name: facebook
+      icon: fontawesome/brands/facebook-square
+      link: https://www.facebook.com/vithaicharitabletrust 
   analytics:
     provider: google
     property: G-7N7EW5SM3Z
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target=_blank>feedback form</a>.
