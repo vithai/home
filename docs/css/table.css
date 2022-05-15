@@ -1,0 +1,35 @@
+
+.md-typeset__table {
+    width: 100%;
+    table-layout: auto;
+    line-height: .75
+}
+
+.md-typeset__table table:not([class]) {
+    font-size: 15px;
+    border-right: none;
+}
+
+.md-typeset__table table:not([class]) td{
+    padding: 10px;
+    background-color: white; 
+}
+.md-typeset__table table:not([class]) th {
+    padding: 10px;
+    background-color: teal;
+}
+
+th {
+    text-align: center;
+    color: white;
+}
+
+th, td {
+    border: 1px solid var(--md-typeset-table-color);
+    border-spacing: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-top: 0;
+    white-space: nowrap;
+    width: 8%;
+}
