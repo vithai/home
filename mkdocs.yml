@@ -4,8 +4,8 @@ theme:
   name: material
   # custom_dir: overrides
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Mukta
+    code: Mukta Mono
   icon:
     logo: fontawesome/solid/seedling
   # features:
