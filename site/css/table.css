@@ -1,8 +1,8 @@
 
 .md-typeset__table {
-    width: 90%;
+    width: 100%;
     table-layout: auto;
-    line-height: 1.25;
+    line-height: .75
 }
 
 .md-typeset__table table:not([class]) {
