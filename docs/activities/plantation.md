@@ -1,3 +1,7 @@
+In the mission of creating environmental awareness among young and future generations to understand global warming, healthy living, water conservation, and the importance of a clean environment, Vithai is conducting a plantation drive every year for the birth anniversary of former president ```Dr. APJ Adbul Kalam```.
+
+Mostly saplings that would survive tropical drought conditions and are environment friendlies like Pungan, Mango, and Neem are widely picked for plantation.
+
 #### 2021
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |

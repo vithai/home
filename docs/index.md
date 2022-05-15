@@ -2,12 +2,17 @@
 
 >“Real generosity toward the future lies in giving all to the present” - Albert Camus
 
-<br />
+<!-- <br /> -->
 
-Vithai is a non-profit charitable trust, composed of like-minded individuals helping provide financial support for underprivileged school students by paying their tuition fees and distributing notebooks. Vithai also encourages school students to plant trees by issuing sapling every year. 
+## About Us
+Vithai is a non-profitable trust founded in 2013 by a group of like-minded school/college friends from different towns in Tamil Nadu. We formed this trust with a vision to transform and uplift the lives of students in the rural regions of Tamil Nadu through student education, by providing financial assistance and distributing notebooks to them. 
 
-<!-- ![Plantation Photo](./images/2016_plantation_sivasailanantha.png) -->
-![Plantation Photo](./images/vithai-logo.png)
+Vithai also creates awareness among the school students about the need of planting more trees by issuing saplings every year. 
+
+## Key Highlights
+Vithai has paid the [tuition fee](./activities//tuition-fee.md) for more than 200+ students and has distributed close to 1500 [notebooks](./activities/notebooks.md) & 8000+ [saplings](./activities/plantation.md) to school students since 2013.
+
+<!-- ![Plantation Photo](./images/vithai-logo.png) -->
 
 *<sub><sup>Vithai is a non-profit charitable trust and yet to be registered officially.<sub><sup>*
 
