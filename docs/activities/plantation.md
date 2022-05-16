@@ -67,8 +67,8 @@ Mostly saplings that would survive tropical drought conditions and are environme
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |
 | Sivasailanatha Middle School              | Achanpudur, Tenkasi Dist.         |               180 |
-| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |               350 |
+| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |               550 |
 | Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               150 |
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |                70 |
 | Govt Middle School                        | Mylappapuram, Tirunelveli Dist.   |               200 |
-|                                           | Total                             |              1550 |
+|                                           | Total                             |              1150 |
