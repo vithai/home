@@ -42,10 +42,10 @@ extra:
       icon: material/gmail
       link: https://mail.google.com/mail/?view=cm&source=mailto&to=vithai2vithai@gmail.com
     - name: twitter
-      icon: fontawesome/brands/twitter-square
+      icon: fontawesome/brands/twitter
       link: https://twitter.com/vithai_ngo
     - name: facebook
-      icon: fontawesome/brands/facebook-square
+      icon: fontawesome/brands/facebook
       link: https://www.facebook.com/vithaicharitabletrust 
   analytics:
     provider: google
