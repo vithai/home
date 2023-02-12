@@ -2,6 +2,21 @@ In the mission of creating environmental awareness among young and future genera
 
 Mostly saplings that would survive tropical drought conditions and are environment friendlies like Pungan, Mango, and Neem are widely picked for plantation.
 
+#### 2022
+| School Name                               | Location                          | Count             |
+| :-                                        | :-                                | -:                |
+| De Britto Hr Sec School                   | Devakottai, Sivagangai Dist.      |               300 |
+| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |               200 |
+| Pethal Aachi Girls Hr Sec School          | Devakottai, Sivagangai Dist.      |               200 |
+| Ramakrishna Middle School                 | Devakottai, Sivagangai Dist.      |                50 |
+| S.C Gurukulam Hr Sec School               | Amaravathiputhur, Sivagangai Dist.|               100 |
+| Harini Vidyalaya Primary School           | Krishnapuram, Tenkasi Dist.       |               100 |
+| Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               170 |
+| Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |               300 |
+| Sivasailanatha Middle School              | Achanpudur, Tenkasi Dist.         |               380 |
+| Govt Hr Sec School                        | Puliyarai, Tirunelveli Dist.      |               350 |
+|                                           | Total                             |              2150 |
+
 #### 2021
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |

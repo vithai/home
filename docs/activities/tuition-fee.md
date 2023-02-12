@@ -1,5 +1,12 @@
 In association with the teachers from different schools, we are identifying deserving students who need support on their tuition fees. 
 
+#### 2022
+| School Name                               | Location                          | Count             |
+| :-                                        | :-                                | -:                |
+| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |                15 |
+| Pethal Aachi Girls Hr Sec School          | Devakottai, Sivagangai Dist.      |                15 |
+|                                           | Total                             |                30 |
+
 #### 2021
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |
