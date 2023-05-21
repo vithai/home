@@ -10,7 +10,7 @@ Vithai is a non-profitable trust founded in 2013 by a group of like-minded schoo
 Vithai also creates awareness among the school students about the need of planting more trees by issuing saplings every year. 
 
 ## Key Highlights
-Vithai has paid the [tuition fee](./activities//tuition-fee.md) for more than 200+ students and has distributed close to 1500 [notebooks](./activities/notebooks.md)  & 8000+ [saplings](./activities/plantation.md) to school students since 2013.
+Vithai has paid the [tuition fee](./activities//tuition-fee.md) for more than 250+ students and has distributed 2,000+ [notebooks](./activities/notebooks.md)  & 10,000+ [saplings](./activities/plantation.md) to school students since 2013.
 
 | Activity Name                                                 | 2022-23          | Total           |
 | :-                                                            | -:               | -:              |
