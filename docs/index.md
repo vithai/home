@@ -12,11 +12,11 @@ Vithai also creates awareness among the school students about the need of planti
 ## Key Highlights
 Vithai has paid the [tuition fee](./activities//tuition-fee.md) for more than 250+ students and has distributed 2,000+ [notebooks](./activities/notebooks.md)  & 10,000+ [saplings](./activities/plantation.md) to school students since 2013.
 
-| Activity Name                                                 | 2022-23          | Total           |
+| Activity Name                                                 | 2022-23          | Since 2013      |
 | :-                                                            | -:               | -:              |
-| Financial Support                                             |               30 |             268 |
-| Notebooks Distribution                                        |              850 |           2,255 |
-| Plantation                                                    |            2,150 |          10,319 |
+| Financial Support (Students)                                  |               30 |             268 |
+| Notebooks Distribution (Notebooks)                            |              850 |           2,255 |
+| Plantation (Saplings)                                         |            2,150 |          10,319 |
 
 *<sub><sup>Vithai is a non-profit charitable trust and yet to be registered officially.<sub><sup>*
 
