@@ -1,4 +1,14 @@
 
+#### 2024
+![Notebooks, S.C Gurukulam Hr Sec School, Amaravathiputhur, Sivagangai Dist.](./images/24_n_01_sc-gurukulam.png)
+![Notebooks Distribution, Sivasailanatha Middle School, Achanpudur, Tenkasi Dist.](./images/24_n_02_sivasailanatha.png)
+![Notebooks Distribution, Sri Sankara  Middle School, Krishnapuram, Tenkasi Dist.](./images/24_n_03_srisankara.png)
+
+![Plantation, NSMVPS Hr Sec School, Devakottai, Sivagangai Dist.](./images/24_p_01_nsmvps.png)
+![Plantation, S.C Gurukulam Hr Sec School, Amaravathiputhur, Sivagangai Dist.](./images/24_p_02_sc-gurukulam.png)
+![Plantation, Sivasailanatha Middle School, Achanpudur, Tenkasi Dist.](./images/24_p_03_sivasailanatha.png)
+![Plantation, Thirunavukkarasu Middle School, Krishnapuram, Tenkasi Dist.](./images/24_p_04_thirunavukkarasu.png)
+
 #### 2023
 ![Notebooks Distribution, Sivasailanatha Middle School, Achanpudur, Tenkasi Dist.](./images/23_n_01_sivasailanatha.png)
 ![Notebooks Distribution, Ramakrishna Middle School, Devakottai, Sivagangai Dist.](./images/23_n_02_ramakrishna.png)

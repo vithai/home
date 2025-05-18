@@ -1,5 +1,13 @@
 In association with the teachers from different schools, we are identifying deserving students who need support on their tuition fees. 
 
+#### 2024
+| School Name                               | Location                          | Count             |
+| :-                                        | :-                                | -:                |
+| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |                16 |
+| Pethal Aachi Girls Hr Sec School          | Devakottai, Sivagangai Dist.      |                17 |
+| Harini Vidyalaya Primary School           | Krishnapuram, Tenkasi Dist.       |                 2 |
+|                                           | Total                             |                35 |
+
 #### 2023
 | School Name                               | Location                          | Count             |
 | :-                                        | :-                                | -:                |
