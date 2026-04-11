@@ -11,3 +11,6 @@
 
 // deploying new changes
 - python3 -m mkdocs gh-deploy
+
+
+https://vithai.github.io/home/gallery/
