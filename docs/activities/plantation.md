@@ -15,6 +15,7 @@ Mostly saplings that would survive tropical drought conditions and are environme
 | Thirunavukkarasu Middle School            | Krishnapuram, Tenkasi Dist.       |               150 |
 | Sivasailanatha Middle School              | Achanpudur, Tenkasi Dist.         |               390 |
 | Govt Hr Sec School                        | Puliyarai, Tirunelveli Dist.      |               400 |
+|                                           | Total                             |              2050 |
 
 #### 2024
 | School Name                               | Location                          | Count             |
