@@ -1,5 +1,17 @@
 In association with the teachers from different schools, we are identifying deserving students who need support for notebooks.
 
+#### 2025
+| School Name                               | Location                          | Count             |
+|:-                                         |:-                                 |--:                |
+| De Britto Hr Sec School                   | Devakottai, Sivagangai Dist.      |               300 |
+| NSMVPS Hr Sec School                      | Devakottai, Sivagangai Dist.      |               300 |
+| Pethal Aachi Girls Hr Sec School          | Devakottai, Sivagangai Dist.      |               200 |
+| Ramakrishna Middle School                 | Devakottai, Sivagangai Dist.      |               100 |
+| S.C Gurukulam Hr Sec School               | Amaravathiputhur, Sivagangai Dist.|               100 |
+| Sivasailanatha Middle School              | Achanpudur, Tenkasi Dist.         |               250 |
+| Sri Sankara  Middle School                | Krishnapuram, Tenkasi Dist.       |               140 |
+|                                           | Total                             |              1390 |
+
 #### 2024
 | School Name                               | Location                          | Count             |
 |:-                                         |:-                                 |--:                |
